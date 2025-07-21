@@ -8,6 +8,8 @@ Baekjoon
 
 Beginning from 2025.07.15 ~
 
+Goal : Reach Platinum V / Aim to solve at least one problem daily.
+
 <a href="https://solved.ac/suri7897" style="margin-right: 10px;" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suri7897" alt="Solved.ac 프로필">
 </a>
